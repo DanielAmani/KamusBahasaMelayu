@@ -1,0 +1,22 @@
+PK
+HomePage=C:\Users\Backup PC\Desktop\Kamus Bahasa\index.html
+OutputType=EXE
+WindowSize=DEFAULT
+WindowSizeable=1
+ShowTitleBar=1
+ShowMenuBar=1
+ShowToolBar=1
+ToolBarLargeIcons=1
+ToolBarCaptions=1
+ShowStatusBar=1
+ShowLanguageMenu=1
+EnableCopy=1
+EnableSaveObject=1
+EnablePrint=1
+EnableFind=1
+EnableAdvancedFind=1
+ExpirationType=NEVER
+ExpirationDate=2016-06-17
+PasswordEnabled=1
+WarningMessageEnabled=1
+ParsingEnabled=1
