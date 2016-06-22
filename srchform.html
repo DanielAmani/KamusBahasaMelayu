@@ -1,0 +1,18 @@
+<html>
+<head>
+<style type="text/css">
+BODY  {
+ margin      : 0px;
+}
+</style>
+</head>
+<body>
+<form id="f1" name="f1" action="javascript:void()" 
+onSubmit="if(this.t1.value!=null && this.t1.value!='')
+parent.findString(this.t1.value);return false;"
+>
+<input type="text" id="t1" name="t1" value="text" size=20>
+<input type="submit" name=b1 value="Find">
+</form>
+</body>
+</html>
